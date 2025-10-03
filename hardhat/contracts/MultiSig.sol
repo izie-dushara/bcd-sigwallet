@@ -2,6 +2,7 @@
 
 pragma solidity ^0.8.28;
 
+/// TODO: understand the code
 /// TODO: test to see if this shit actually works
 contract MultiSig {
     event Deposit(address indexed sender, uint amount);
